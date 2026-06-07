@@ -24,4 +24,8 @@ You will need a ClientID
 9. Run Command Prompt on folder and execute python file
 
 
+#Tip:
+"Go to Rich Presence App Visualizer on Developer Portal if you want to see how it will be gonna look."
+
+
  Have fun 
